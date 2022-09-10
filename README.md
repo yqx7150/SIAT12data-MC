@@ -1,5 +1,5 @@
 # SIAT12data-MC
-SIAT12data for Multi-Contrast MRI
+SIAT12data for Multi-contrast MRI Reconstruction
 
 
 ## Data1

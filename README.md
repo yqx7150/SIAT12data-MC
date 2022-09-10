@@ -48,3 +48,11 @@ SIAT12data for Multi-Contrast MRI
 
 ## Data12
 <div align="center"><img src="https://github.com/yqx7150/SIAT12data-MC/blob/main/Figures2/MCdata12.png"> </div>    
+
+
+## Other Related Projects
+ * Homotopic Gradients of Generative Density Priors for MR Image Reconstruction  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/9435335)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/HGGDP) [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/HGGDP/tree/master/Slide)
+ 
+  * 基于梯度域的多对比度磁共振成像重建 
+[<font size=5>**[Paper]**</font>](https://info.cqvip.com/Qikan/Article/Detail?id=7107589444)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/UDLGD)

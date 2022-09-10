@@ -7,7 +7,11 @@ SIAT12data for Multi-Contrast MRI
 
 
 ## Data2
-<div align="center"><img src="https://github.com/yqx7150/SIAT12data-MC/tree/main/Figures/MCdata02.png"> </div>
+<div align="center"><img src="https://github.com/yqx7150/SIAT12data-MC/tree/main/Figures/MCdata02.png"> </div>    
+
+
+
+
 
 ## Data3
 <div align="center"><img src="https://github.com/yqx7150/SIAT12data-MC/tree/main/Figures/MCdata03.png"> </div>
